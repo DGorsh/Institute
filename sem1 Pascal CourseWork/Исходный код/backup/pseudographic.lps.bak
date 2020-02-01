@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="pseudographic.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="364"/>
+        <CursorPos X="72" Y="368"/>
+        <FoldState Value=" TLi301 T0oN45f"/>
+        <UsageCount Value="218"/>
+        <Bookmarks Count="1">
+          <Item0 X="46" Y="717"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="468" Column="11" TopLine="455"/>
+      </Position1>
+      <Position2>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position2>
+      <Position3>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position3>
+      <Position4>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position4>
+      <Position5>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position5>
+      <Position6>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position6>
+      <Position7>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position7>
+      <Position8>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position8>
+      <Position9>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position9>
+      <Position10>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position10>
+      <Position11>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position11>
+      <Position12>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position12>
+      <Position13>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position13>
+      <Position14>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position14>
+      <Position15>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position15>
+      <Position16>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position16>
+      <Position17>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position17>
+      <Position18>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="441" Column="14" TopLine="429"/>
+      </Position18>
+      <Position19>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="472" Column="11" TopLine="455"/>
+      </Position19>
+      <Position20>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position20>
+      <Position21>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position21>
+      <Position22>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position22>
+      <Position23>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position23>
+      <Position24>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position24>
+      <Position25>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position25>
+      <Position26>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position26>
+      <Position27>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="474" TopLine="455"/>
+      </Position27>
+      <Position28>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="475" TopLine="455"/>
+      </Position28>
+      <Position29>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="473" TopLine="455"/>
+      </Position29>
+      <Position30>
+        <Filename Value="pseudographic.pas"/>
+        <Caret Line="467" TopLine="364"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="4">
+      <Item1>
+        <Expression Value="flog"/>
+      </Item1>
+      <Item2>
+        <Expression Value="Input"/>
+      </Item2>
+      <Item3>
+        <Expression Value="Loaded"/>
+      </Item3>
+      <Item4>
+        <Expression Value="fout"/>
+      </Item4>
+    </Watches>
+  </Debugging>
+</CONFIG>
