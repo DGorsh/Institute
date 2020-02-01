@@ -1,0 +1,4 @@
+﻿  Laba7.cpp
+c:\users\poray\documents\visual studio 2013\projects\laba7\laba7\laba7.cpp(131): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\users\poray\documents\visual studio 2013\projects\laba7\laba7\laba7.cpp(135): warning C4305: '-=' : truncation from 'double' to 'float'
+  Laba7.vcxproj -> C:\Users\poray\documents\visual studio 2013\Projects\Laba7\Debug\Laba7.exe

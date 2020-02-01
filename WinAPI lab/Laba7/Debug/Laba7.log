@@ -1,0 +1,21 @@
+﻿Build started 01.06.2018 11:58:25.
+     1>Project "C:\Users\Admin\Documents\Visual Studio 2013\Projects\Laba7\Laba7\Laba7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Laba7.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Laba7.cpp
+         Laba7.cpp
+     1>c:\users\admin\documents\visual studio 2013\projects\laba7\laba7\laba7.cpp(143): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2013\projects\laba7\laba7\laba7.cpp(187): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\admin\documents\visual studio 2013\projects\laba7\laba7\laba7.cpp(193): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\admin\documents\visual studio 2013\projects\laba7\laba7\laba7.cpp(321): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Documents\Visual Studio 2013\Projects\Laba7\Debug\Laba7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\Documents\Visual Studio 2013\Projects\Laba7\Debug\Laba7.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Documents\Visual Studio 2013\Projects\Laba7\Debug\Laba7.lib" /MACHINE:X86 Debug\Laba7.res
+         Debug\Draft.obj
+         Debug\Laba7.obj
+         Debug\stdafx.obj
+         Laba7.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2013\Projects\Laba7\Debug\Laba7.exe
+     1>Done Building Project "C:\Users\Admin\Documents\Visual Studio 2013\Projects\Laba7\Laba7\Laba7.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26
