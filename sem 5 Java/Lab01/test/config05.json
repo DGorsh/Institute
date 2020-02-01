@@ -1,0 +1,4 @@
+{ "bracket": [
+  {"left": "/", "right": "/"},
+  {"left": "\\", "right": "\\"}
+] }

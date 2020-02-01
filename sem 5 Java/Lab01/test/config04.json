@@ -1,0 +1,4 @@
+{ "bracket": [
+  {"left": "a", "right": "b"},
+  {"left": "|", "right": "|"}
+] }
