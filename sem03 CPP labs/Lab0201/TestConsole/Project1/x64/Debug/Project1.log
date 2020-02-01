@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\admin\source\repos\myprojects\lab0201\testconsole\project1\drawmenu.h(64): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0201\testconsole\project1\drawmenu.h(85): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0201\testconsole\project1\drawmenu.h(122): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0201\testconsole\project1\commands.h(106): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Admin\source\repos\MyProjects\Lab0201\TestConsole\x64\Debug\TestConsole.exe

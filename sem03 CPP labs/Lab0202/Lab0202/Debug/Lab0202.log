@@ -1,0 +1,28 @@
+﻿  Lab02.c
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(95): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(133): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(161): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(171): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(219): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(247): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(260): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(297): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(298): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(324): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\lab02.c(406): warning C4013: 'sqrt' undefined; assuming extern returning int
+  kek.txt
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\kek.txt(2): error C2143: syntax error: missing ';' before 'user-defined literal'
+c:\users\admin\source\repos\myprojects\lab0202\lab0202\kek.txt(2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
