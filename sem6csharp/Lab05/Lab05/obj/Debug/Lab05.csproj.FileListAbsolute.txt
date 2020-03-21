@@ -1,0 +1,6 @@
+c:\users\дима\documents\visual studio 2015\Game\Lab05\Lab05\bin\Debug\Lab05.exe.config
+c:\users\дима\documents\visual studio 2015\Game\Lab05\Lab05\bin\Debug\Lab05.exe
+c:\users\дима\documents\visual studio 2015\Game\Lab05\Lab05\bin\Debug\Lab05.pdb
+c:\users\дима\documents\visual studio 2015\Game\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+c:\users\дима\documents\visual studio 2015\Game\Lab05\Lab05\obj\Debug\Lab05.exe
+c:\users\дима\documents\visual studio 2015\Game\Lab05\Lab05\obj\Debug\Lab05.pdb
