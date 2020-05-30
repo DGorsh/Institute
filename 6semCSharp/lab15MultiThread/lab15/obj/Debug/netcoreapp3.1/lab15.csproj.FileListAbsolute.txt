@@ -1,0 +1,13 @@
+C:\Users\Дима\source\repos\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.AssemblyInfo.cs
+C:\Users\Дима\source\repos\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.exe
+C:\Users\Дима\source\repos\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.deps.json
+C:\Users\Дима\source\repos\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.runtimeconfig.json
+C:\Users\Дима\source\repos\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.dll
+C:\Users\Дима\source\repos\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.pdb
+C:\Users\Дима\source\repos\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.dll
+C:\Users\Дима\source\repos\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.pdb
+C:\Users\Дима\source\repos\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.genruntimeconfig.cache
