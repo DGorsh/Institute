@@ -1,0 +1,6 @@
+c:\users\дима\documents\visual studio 2015\Projects\ExamFIIT\ExamFIIT\bin\Debug\ExamFIIT.exe.config
+c:\users\дима\documents\visual studio 2015\Projects\ExamFIIT\ExamFIIT\bin\Debug\ExamFIIT.exe
+c:\users\дима\documents\visual studio 2015\Projects\ExamFIIT\ExamFIIT\bin\Debug\ExamFIIT.pdb
+c:\users\дима\documents\visual studio 2015\Projects\ExamFIIT\ExamFIIT\obj\Debug\ExamFIIT.csprojResolveAssemblyReference.cache
+c:\users\дима\documents\visual studio 2015\Projects\ExamFIIT\ExamFIIT\obj\Debug\ExamFIIT.exe
+c:\users\дима\documents\visual studio 2015\Projects\ExamFIIT\ExamFIIT\obj\Debug\ExamFIIT.pdb
